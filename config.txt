@@ -3,11 +3,11 @@
 # 公众号appId
 "app_id": "wxed4d65954387c127",
 # 公众号appSecret
-"app_secret": "7dccd73caefe6401b73b5be7f202eed1",
+"app_secret": "ebcea0cf569d0540dbf55b119c4fd756",
 # 模板消息id
-"template_id": "JE5oXBUa4CnSlKGXEczS_22Y3m6bU_KmZ_mJD3R-7XY",
+"template_id": "j9aEKQKMawpcz1A4OWheF58gtpH9qMEt2DDCvWR3H3s",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1", "weixin2"]
-"user": ["o6ez452Hwwz1pPXJ1xfxRIsp-8dk"],
+"user": ["o6ez457QyWv_qE6nTQAuwnMuwgqE"],
  
 # 信息配置
 # 和风天气apikey
@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-04",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "今天也要按时吃饭哦",
 # 金句英文
 "note_en": ""
 }
